@@ -1,7 +1,7 @@
 # Hello, I'm Edison 👋
 
 ## 🚀 About Me
-Highly skilled and accomplished Senior Software Engineer with over 15 years of experience in designing and developing innovative software solutions. Proficient in fullstack development and well-versed in multiple programming languages, frameworks, and technologies. Demonstrated expertise in tackling complex technical challenges and delivering high-performance applications.
+Highly skilled and accomplished Senior Software Engineer with over 15 years of experience in designing and developing innovative software solutions. Proficient in fullstack development and well-versed in multiple programming languages, frameworks, and technologies. Demonstrated expertise in tackling complex technical challenges and delivering high-performance applications.
 
 ## 🛠 Skills
 - Programming Languages: Golang, Java, C#, Rust, NodeJS, Typescript, JavaScript
